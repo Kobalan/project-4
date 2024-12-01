@@ -1,6 +1,5 @@
 numpy
 pandas
-pickle
 datetime
 streamlit
 scikit-learn
